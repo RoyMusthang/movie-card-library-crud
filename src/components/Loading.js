@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// yamete kudasay
 
 class Loading extends Component {
   render() {
